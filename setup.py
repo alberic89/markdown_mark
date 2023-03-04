@@ -4,9 +4,6 @@ from pathlib import Path
 setup(
     name="markdown_mark",
     version="0.0.1",
-    packages=[
-        "markdown_mark",
-    ],
     license="LGPLv3",
     url="https://github.com/alberic89/markdown_mark",
     description="A markdown python extension that enables you to create <mark> tag by using ==some text== or ???other text???",
